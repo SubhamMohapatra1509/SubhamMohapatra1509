@@ -23,7 +23,7 @@
 - 🌱 Learning **HTML, CSS, JavaScript, Python, Web Development**  
 - 👯 Open to **Open Source Projects**  
 - 💬 Ask me about **Frontend Development**  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/subham-mohapatra-dev) | mohapatrasubhamkumar2@gmail.com  
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/subham-mohapatra-dev) | [Email Me](mailto:mohapatrasubhamkumar2@gmail.com)
 - ⚡ Fun fact: **I think I am funny 😄**
 
 ---
