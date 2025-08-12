@@ -23,7 +23,7 @@
 - 🌱 Learning **HTML, CSS, JavaScript, Python, Web Development**  
 - 👯 Open to **Open Source Projects**  
 - 💬 Ask me about **Frontend Development**  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/subham-mohapatra-dev) | [Email Me](mailto:mohapatrasubhamkumar2@gmail.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/subham-mohapatra-dev) | [Email Me](mailto:mohapatrasubhamkumar2@gmail.com)  
 - ⚡ Fun fact: **I think I am funny 😄**
 
 ---
@@ -39,29 +39,29 @@
 
 ## 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,c,linux,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,c,linux,git" alt="Skills" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhammohapatra1509&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhammohapatra1509&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subhammohapatra1509&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhammohapatra1509&layout=compact&theme=tokyonight" height="180em" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhammohapatra1509&theme=radical&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=subhammohapatra1509&theme=radical&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
 
 ## 🎯 Fun Developer Quote  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
 </p>
 
 ---
