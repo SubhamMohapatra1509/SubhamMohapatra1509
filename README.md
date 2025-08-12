@@ -11,9 +11,9 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhammohapatra1509&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/subhammohapatra1509?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/subhammohapatra1509?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=SubhamMohapatra1509&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/SubhamMohapatra1509?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/SubhamMohapatra1509?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
 </p>
 
 ---
@@ -32,36 +32,45 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/subham-mohapatra-dev"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:mohapatrasubhamkumar2@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" alt="Gmail"/></a>
-  <a href="https://github.com/subhammohapatra1509"><img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/></a>
+  <a href="https://github.com/SubhamMohapatra1509"><img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/></a>
 </p>
 
 ---
 
 ## 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,c,linux,git" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,c,linux,git" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhammohapatra1509&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhammohapatra1509&layout=compact&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SubhamMohapatra1509&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamMohapatra1509&layout=compact&theme=tokyonight" height="180em"/>
 </p>
+
+---
 
 ---
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhammohapatra1509&theme=radical&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SubhamMohapatra1509&theme=radical&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhamMohapatra1509&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## 🎯 Fun Developer Quote  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
