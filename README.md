@@ -19,13 +19,13 @@
 
 ---
 
-## 🚀 What I’m up to
-- 🔭 Building **[Reson Alert](https://reson-alert-by-subham.netlify.app)** — an emergency‑themed web app
-- 🌱 Leveling up **HTML • CSS • JavaScript • Python • Web Dev**
-- 👯 Open to collaborating on **frontend and full‑stack projects**
-- 💬 Ask me about **responsive UI, animations, and project structure**
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/subham-mohapatra-dev)** · **[Email](mailto:mohapatrasubhamkumar2@gmail.com)**
-- ⚡ Fun fact: I try to ship clean code and decent jokes 😄
+## 🚀 About Me
+- 🔭 Working on **[Reson Alert](https://reson-alert-by-subham.netlify.app)** — an emergency-themed web app
+- 🌱 Learning and leveling up in **HTML • CSS • JavaScript • Python • Web Development**
+- 👯 Open to collaborating on **frontend and full-stack projects**
+- 💬 Ask me about **responsive UI, animations, or project architecture**
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/subham-mohapatra-dev)** or **[Email](mailto:mohapatrasubhamkumar2@gmail.com)**
+- ⚡ Fun fact: I strive to write clean code and sprinkle in some humor 😄
 
 ---
 
@@ -36,8 +36,8 @@
 
 <!-- Quick skill tags -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3%20%7C%20JS-1f2937?style=flat" />
-  <img src="https://img.shields.io/badge/Backend-Python-1f2937?style=flat" />
+  <img src="https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3%20%7C%20JavaScript-1f2937?style=flat" />
+  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20SQLite-1f2937?style=flat" />
   <img src="https://img.shields.io/badge/Tools-Git%20%7C%20Linux%20%7C%20VS%20Code-1f2937?style=flat" />
 </p>
 
@@ -48,10 +48,10 @@
   <img src="https://img.shields.io/badge/Reson%20Alert-Visit%20Live-00bfff?style=for-the-badge" alt="Reson Alert" />
 </a>
 
-> Emergency alerts, quick actions, and awareness in a clean UI. Built with HTML, CSS, JS.
+> A web app for emergency alerts, quick actions, and awareness with a clean, user-friendly interface. Built with HTML, CSS, and JavaScript.
 
-- Device connection, emergency calls, voice tracking, and location sharing concepts
-- Focus on accessible design and fast load times
+- Features device connection, emergency calls, voice tracking, and location-sharing concepts
+- Designed for accessibility and optimized for fast load times
 
 ---
 
@@ -69,7 +69,7 @@
 
 ## 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SubhamMohapatra1509&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SubhamMohapatra1509&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -83,12 +83,12 @@
 
 ## 💬 Daily Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Dev Quote" />
 </p>
 
 ---
 
-### 🌐 Socials
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/subham-mohapatra-dev"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:mohapatrasubhamkumar2@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" alt="Gmail"/></a>
@@ -98,5 +98,5 @@
 ---
 
 <p align="center">
-  <b>Thanks for stopping by!</b> If you like something here, a ⭐️ makes my day.
+  <b>Thanks for visiting!</b> Drop a ⭐️ if you like what you see.
 </p>
