@@ -10,7 +10,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SubhamMohapatra1509&label=Profile%20Views&color=00bfff&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SubhamMohapatra1509&label=Profile%20Views&color=00bfff&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/SubhamMohapatra1509?label=Followers&style=for-the-badge&color=0ea5e9" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/SubhamMohapatra1509?label=Stars&style=for-the-badge&color=facc15" alt="GitHub Stars" />
   <a href="mailto:mohapatrasubhamkumar2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-10b981?style=for-the-badge" alt="Email" /></a>
@@ -20,18 +20,18 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Working on **[Reson Alert](https://reson-alert-by-subham.netlify.app)** — an emergency-themed web app
-- 🌱 Learning and leveling up in **HTML • CSS • JavaScript • Python • Web Development**
-- 👯 Open to collaborating on **frontend and full-stack projects**
-- 💬 Ask me about **responsive UI, animations, or project architecture**
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/subham-mohapatra-dev)** or **[Email](mailto:mohapatrasubhamkumar2@gmail.com)**
-- ⚡ Fun fact: I strive to write clean code and sprinkle in some humor 😄
+- 🔭 Working on **[Reson Alert](https://reson-alert-by-subham.netlify.app)** — an emergency-themed web app  
+- 🌱 Learning and mastering **HTML • CSS • JavaScript • Python • Web Development**  
+- 👯 Open to collaborating on **frontend and full-stack projects**  
+- 💬 Ask me about **responsive UI, animations, or project architecture**  
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/subham-mohapatra-dev)** or **[Email](mailto:mohapatrasubhamkumar2@gmail.com)**  
+- ⚡ Fun fact: I aim to write clean code and share a few laughs along the way 😄  
 
 ---
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,c,linux,git,github,vscode,sqlite" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,c,linux,git,github,vscode,sqlite" alt="Tech Stack" />
 </p>
 
 <!-- Quick skill tags -->
@@ -50,27 +50,28 @@
 
 > A web app for emergency alerts, quick actions, and awareness with a clean, user-friendly interface. Built with HTML, CSS, and JavaScript.
 
-- Features device connection, emergency calls, voice tracking, and location-sharing concepts
-- Designed for accessibility and optimized for fast load times
+- Features device connection, emergency calls, voice tracking, and location-sharing concepts  
+- Designed for accessibility and optimized for fast load times  
 
 ---
 
 ## 📊 GitHub Snapshot
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhamMohapatra1509&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamMohapatra1509&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SubhamMohapatra1509&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamMohapatra1509&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SubhamMohapatra1509&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SubhamMohapatra1509&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SubhamMohapatra1509&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SubhamMohapatra1509&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=3" alt="GitHub Trophies"/>
 </p>
+
 
 ---
 
