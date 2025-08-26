@@ -61,14 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamMohapatra1509&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
-## 🏆 Trophies & Streak (Radical Theme)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SubhamMohapatra1509&theme=radical&row=1&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SubhamMohapatra1509&theme=radical&hide_border=true" alt="Streak" />
-</p>
 ---
 
 ## 📈 Activity Graph
