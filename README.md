@@ -61,17 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamMohapatra1509&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SubhamMohapatra1509&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SubhamMohapatra1509&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=3" alt="GitHub Trophies"/>
-</p>
-
 
 ---
 
